@@ -1,7 +1,13 @@
-h1 {
+hero {
+  font-weight: bold;
   font-size: 36px;
   font-family: 'Lucida sans', georgia;
 color: black; 
+}
+
+hero2 {font-size: 36px;
+  font-family: 'Lucida sans', georgia;
+color: black;
 }
 
 h2 {
