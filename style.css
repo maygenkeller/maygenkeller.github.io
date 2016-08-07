@@ -1,5 +1,11 @@
 h1 {
+  font-weight: bold;
   font-size: 32px;
-  font-family: Lucida sans, georgia;
+  font-family: 'Lucida sans', georgia;
 color: black; 
+}
+h2 {
+  font-size: 32px;
+  font-family: 'Lucida sans', georgia; 
+  color: black;
 }
