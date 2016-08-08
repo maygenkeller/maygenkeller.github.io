@@ -25,7 +25,7 @@ hero2 {font-size: 36px;
 color: black;
 }
 
-.contactinfo {text-align: right;}
+.contactinfo {text-align: right; padding-top: 50px;}
 
 .header {
    border-bottom: 2px solid #000;
