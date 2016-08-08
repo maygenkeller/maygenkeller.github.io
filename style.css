@@ -1,5 +1,5 @@
-html {
-  margin: 20px;
+html, body {
+  padding: 20px;
   min-height: 100%;
   display: flex;
   flex-direction: column;
