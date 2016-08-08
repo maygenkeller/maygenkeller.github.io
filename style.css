@@ -32,6 +32,10 @@ color: black;
    
 }
 
+.break {border-bottom: 2px dashed #000;
+   
+}
+
 .details {
   padding-left: 20px;
 }
