@@ -1,7 +1,4 @@
-html {
-  background-color: white;
-}
-body {
+html, body {
   margin: 20px;
   min-height: 100%;
   display: flex;
