@@ -25,7 +25,7 @@ hero2 {font-size: 48px;
 color: black;
 }
 
-.contactinfo {float: right;}
+.contactinfo {float: right; margin-top: 50px;}
 
 .header {text-align: left;
    border-bottom: 2px solid #000;
