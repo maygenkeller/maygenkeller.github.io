@@ -1,4 +1,4 @@
-html, body {
+html {
   margin: 20px;
   min-height: 100%;
   display: flex;
@@ -7,7 +7,7 @@ html, body {
 
 body {background-image: url('https://www.xmple.com/wallpaper/white-blue-gradient-linear-1920x1080-c2-87cefa-ffffff-a-345-f-14.svg'); 
   background-size: cover;
-  margin: 20px;
+  margin: 0;
 }
 
 hero {
