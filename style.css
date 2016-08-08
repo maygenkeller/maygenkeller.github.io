@@ -27,7 +27,7 @@ color: black;
 
 .contactinfo {text-align: right;}
 
-.header {
+.header {text-align: left;
    border-bottom: 2px solid #000;
    
 }
