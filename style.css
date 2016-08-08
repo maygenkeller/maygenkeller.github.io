@@ -1,3 +1,10 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
 body {background-image: url('https://www.xmple.com/wallpaper/white-blue-gradient-linear-1920x1080-c2-87cefa-ffffff-a-345-f-14.svg'); 
   background-size: cover;
   margin: 0;
